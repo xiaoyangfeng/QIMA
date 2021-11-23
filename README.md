@@ -1,24 +1,14 @@
-# qima
+how to run:
+    1. npm install
+    2. npm serve
+    3. open the link as showed, usually is http://localhost:8080/
 
-## Project setup
-```
-npm install
-```
+setup status for A B C and D
+    create A
+    create B
+    create C choose B
+    create D choose C
+    update A choose C, D
+    update B choose self, D
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+enjoy
